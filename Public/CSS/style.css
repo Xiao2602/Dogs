@@ -67,3 +67,8 @@ h2 {
 .sub {
   padding: 10px;
 }
+footer a{
+display:block;
+border: 1px solid;
+width:100px;
+}
